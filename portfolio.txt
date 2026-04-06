@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f9f9f9;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Devi Ramya</h1>
+    <p>Engineering Student | IoT Enthusiast</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <div class="card">
+        I am passionate about IoT, AI and building smart solutions.
+    </div>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <div class="card">
+        Python, C, IoT, Embedded Systems
+    </div>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <div class="card">
+        Smart Irrigation System using IoT
+    </div>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <div class="card">
+        Email: deviramya1612@gmail.com
+    </div>
+</section>
+
+</body>
+</html>
